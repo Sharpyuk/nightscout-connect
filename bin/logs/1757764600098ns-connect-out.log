@@ -1,0 +1,96 @@
+{
+  "entries": [],
+  "treatments": [
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-11T10:46:56.000Z",
+      "insulin": 0,
+      "carbs": 4,
+      "notes": "{\"pumpTimestamp\":\"2025-09-11T10:46:56.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T02:47:23.587Z\",\"insulinDelivered\":0,\"carbsInput\":4,\"guid\":\"d1293eae-8f82-11f0-8e4d-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":0,\"bloodGlucoseInput\":7400,\"insulinProgrammed\":0,\"insulinRecommendationForCarbs\":0.15,\"insulinRecommendationForCorrection\":-0.3,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T02:47:26.564Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-11T11:59:16.000Z",
+      "insulin": 1.4,
+      "carbs": 47,
+      "notes": "{\"pumpTimestamp\":\"2025-09-11T11:59:16.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T02:47:23.587Z\",\"insulinDelivered\":1.4,\"carbsInput\":47,\"guid\":\"d1294c1e-8f82-11f0-8e4d-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":1.4,\"bloodGlucoseInput\":10300,\"insulinProgrammed\":1.4,\"insulinRecommendationForCarbs\":1.5,\"insulinRecommendationForCorrection\":-0.1,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T02:47:26.564Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-11T16:19:48.000Z",
+      "insulin": 0.55,
+      "carbs": 23,
+      "notes": "{\"pumpTimestamp\":\"2025-09-11T16:19:48.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T02:47:23.587Z\",\"insulinDelivered\":0.55,\"carbsInput\":23,\"guid\":\"d1295808-8f82-11f0-8e4d-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":0.55,\"bloodGlucoseInput\":10400,\"insulinProgrammed\":0.55,\"insulinRecommendationForCarbs\":0.75,\"insulinRecommendationForCorrection\":-0.2,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T02:47:26.564Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-11T16:42:44.000Z",
+      "insulin": 0.15,
+      "carbs": 15,
+      "notes": "{\"pumpTimestamp\":\"2025-09-11T16:42:44.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T02:47:23.587Z\",\"insulinDelivered\":0.15,\"carbsInput\":15,\"guid\":\"d1296500-8f82-11f0-8e4d-0242ac110002\",\"insulinOnBoard\":0.5,\"totalInsulinRecommendation\":0.15,\"bloodGlucoseInput\":9500,\"insulinProgrammed\":0.15,\"insulinRecommendationForCarbs\":0.5,\"insulinRecommendationForCorrection\":-0.35,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T02:47:26.564Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-12T07:24:22.000Z",
+      "insulin": 0.85,
+      "carbs": 22,
+      "notes": "{\"pumpTimestamp\":\"2025-09-12T07:24:22.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T21:21:38.255Z\",\"insulinDelivered\":0.85,\"carbsInput\":22,\"guid\":\"79ffc598-901e-11f0-8506-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":0.85,\"bloodGlucoseInput\":8500,\"insulinProgrammed\":0.85,\"insulinRecommendationForCarbs\":1.2,\"insulinRecommendationForCorrection\":-0.35,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T21:21:41.757Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-12T10:45:35.000Z",
+      "insulin": 0,
+      "carbs": 12,
+      "notes": "{\"pumpTimestamp\":\"2025-09-12T10:45:35.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T21:21:38.255Z\",\"insulinDelivered\":0,\"carbsInput\":12,\"guid\":\"79ffccaa-901e-11f0-8506-0242ac110002\",\"insulinOnBoard\":0.05,\"totalInsulinRecommendation\":0.3,\"bloodGlucoseInput\":7400,\"insulinProgrammed\":0,\"insulinRecommendationForCarbs\":0.65,\"insulinRecommendationForCorrection\":-0.35,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T21:21:41.757Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-12T12:05:20.000Z",
+      "insulin": 2.25,
+      "carbs": 76,
+      "notes": "{\"pumpTimestamp\":\"2025-09-12T12:05:20.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T21:21:38.255Z\",\"insulinDelivered\":2.25,\"carbsInput\":76,\"guid\":\"79ffd376-901e-11f0-8506-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":2.25,\"bloodGlucoseInput\":10000,\"insulinProgrammed\":2.25,\"insulinRecommendationForCarbs\":2.5,\"insulinRecommendationForCorrection\":-0.25,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T21:21:41.757Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-12T19:32:52.000Z",
+      "insulin": 0.65,
+      "carbs": 20,
+      "notes": "{\"pumpTimestamp\":\"2025-09-12T19:32:52.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-12T21:21:38.255Z\",\"insulinDelivered\":0.65,\"carbsInput\":20,\"guid\":\"79ffdbd2-901e-11f0-8506-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":0.65,\"bloodGlucoseInput\":11000,\"insulinProgrammed\":0.65,\"insulinRecommendationForCarbs\":0.65,\"insulinRecommendationForCorrection\":0,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-12T21:21:41.757Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-12T22:59:33.000Z",
+      "insulin": 0.5,
+      "carbs": 0,
+      "notes": "{\"pumpTimestamp\":\"2025-09-12T22:59:33.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-13T01:42:31.316Z\",\"insulinDelivered\":0.5,\"carbsInput\":0,\"guid\":\"ebcd48ac-9042-11f0-9eec-0242ac110002\",\"insulinOnBoard\":0.25,\"totalInsulinRecommendation\":0.7,\"bloodGlucoseInput\":24800,\"insulinProgrammed\":0.5,\"insulinRecommendationForCarbs\":0,\"insulinRecommendationForCorrection\":0.7,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-13T01:42:34.516Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-13T07:53:21.000Z",
+      "insulin": 0.85,
+      "carbs": 21,
+      "notes": "{\"pumpTimestamp\":\"2025-09-13T07:53:21.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-13T11:31:27.162Z\",\"insulinDelivered\":0.85,\"carbsInput\":21,\"guid\":\"315f16c8-9095-11f0-8195-0242ac110002\",\"insulinOnBoard\":0,\"totalInsulinRecommendation\":0.85,\"bloodGlucoseInput\":8500,\"insulinProgrammed\":0.85,\"insulinRecommendationForCarbs\":1.15,\"insulinRecommendationForCorrection\":-0.3,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-13T11:31:30.036Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-13T08:56:01.000Z",
+      "insulin": 0.2,
+      "carbs": 13,
+      "notes": "{\"pumpTimestamp\":\"2025-09-13T08:56:01.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-13T11:31:27.162Z\",\"insulinDelivered\":0.2,\"carbsInput\":13,\"guid\":\"315f230c-9095-11f0-8195-0242ac110002\",\"insulinOnBoard\":0.65,\"totalInsulinRecommendation\":0.2,\"bloodGlucoseInput\":8800,\"insulinProgrammed\":0.2,\"insulinRecommendationForCarbs\":0.7,\"insulinRecommendationForCorrection\":-0.5,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-13T11:31:30.036Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-13T09:34:19.000Z",
+      "insulin": 0,
+      "carbs": 9,
+      "notes": "{\"pumpTimestamp\":\"2025-09-13T09:34:19.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-13T11:31:27.162Z\",\"insulinDelivered\":0,\"carbsInput\":9,\"guid\":\"315f2f5a-9095-11f0-8195-0242ac110002\",\"insulinOnBoard\":0.65,\"totalInsulinRecommendation\":0.4,\"bloodGlucoseInput\":11100,\"insulinProgrammed\":0,\"insulinRecommendationForCarbs\":0.5,\"insulinRecommendationForCorrection\":-0.1,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":\"CGM\",\"softDeleted\":false,\"updatedAt\":\"2025-09-13T11:31:30.036Z\",\"updatedBy\":\"server\"}"
+    },
+    {
+      "eventType": "Meal Bolus",
+      "eventTime": "2025-09-13T10:51:37.000Z",
+      "insulin": 1.5,
+      "carbs": 40.9,
+      "notes": "{\"pumpTimestamp\":\"2025-09-13T10:51:37.000Z\",\"pumpTimestampUtcOffset\":\"+00:00\",\"pumpGuid\":\"eaf8a31d-89ff-49bf-ba6b-2cf8fcc81b83\",\"syncTimestamp\":\"2025-09-13T11:31:27.162Z\",\"insulinDelivered\":1.5,\"carbsInput\":40.9,\"guid\":\"315f3b6c-9095-11f0-8195-0242ac110002\",\"insulinOnBoard\":0.25,\"totalInsulinRecommendation\":2.25,\"bloodGlucoseInput\":null,\"insulinProgrammed\":1.5,\"insulinRecommendationForCarbs\":2.25,\"insulinRecommendationForCorrection\":0,\"insulinReduction\":null,\"override\":null,\"type\":\"suggested\",\"pumpName\":\"Insulet Omnipod® 5 System\",\"bloodGlucoseInputSource\":null,\"softDeleted\":false,\"updatedAt\":\"2025-09-13T11:31:30.036Z\",\"updatedBy\":\"server\"}"
+    }
+  ]
+}
